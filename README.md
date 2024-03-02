@@ -9,6 +9,7 @@ https://www.youtube.com/embed/pA9W0otDkSE
 
 ## PlatformIO only (not tested Arduino-IDE)
 Copy example code to src folder and rename main.cpp
+
 ![platformIO](image/platformsrc.png)
 - Modifed bmm150_defs.h using floating point
 ~~~
@@ -34,7 +35,6 @@ https://github.com/m5stack/M5Unified
 https://github.com/GOB52/gob_unifiedButton
 
 ## License
-
 - 9PEO0xNd - MIT
 - M5Unified - MIT by M5Stack
 - gob_unifiedButton - MIT by GOB52
