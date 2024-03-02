@@ -221,12 +221,10 @@ void bmi2auxClass::ReadCalibration()
         // added soft iron distortion scaling
         //prefs.getBytes("scale", (uint8_t *)&mag_scale, sizeof(bmm150_mag_data));
         prefs.end();
-        Serial.printf("bmm150 load offset finish.... \r\n");
         M5_LOGI("bmm150 load offset finish.... ");
     }
     else
     {
-        Serial.printf("bmm150 load offset failed.... \r\n");
         M5_LOGE("bmm150 load offset failed.... ");
     }
 }
