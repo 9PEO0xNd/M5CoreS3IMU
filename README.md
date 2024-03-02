@@ -29,10 +29,10 @@ Copy example code to src folder and rename main.cpp
 To keep the display speed, use M5.Log.Printf instead of Serial or USBSerial
 
 ## References
-https://github.com/boschsensortec/BMI270_SensorDriver
-https://github.com/boschsensortec/BMM150_SensorDriver
-https://github.com/m5stack/M5Unified
-https://github.com/GOB52/gob_unifiedButton
+https://github.com/boschsensortec/BMI270_SensorDriver  
+https://github.com/boschsensortec/BMM150_SensorDriver  
+https://github.com/m5stack/M5Unified  
+https://github.com/GOB52/gob_unifiedButton  
 
 ## License
 - 9PEO0xNd - MIT
