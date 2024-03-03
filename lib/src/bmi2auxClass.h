@@ -1,5 +1,5 @@
-#ifndef _BMI2AUX_H_
-#define _BMI2AUX_H_
+#ifndef _BMI2AUXCLASS_H_
+#define _BMI2AUXCLASS_H_
 #include <Arduino.h>
 //#include <nvs.h>
 #include "Preferences.h"
