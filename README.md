@@ -33,6 +33,7 @@ https://github.com/boschsensortec/BMI270_SensorDriver
 https://github.com/boschsensortec/BMM150_SensorDriver  
 https://github.com/m5stack/M5Unified  
 https://github.com/GOB52/gob_unifiedButton  
+https://x-io.co.uk/open-source-imu-and-ahrs-algorithms/  
 
 ## License
 - 9PEO0xNd - MIT
