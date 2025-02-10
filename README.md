@@ -1,5 +1,7 @@
 # M5CoreS3-IMU
 
+## Do not use this unit in situations involving safety to life.
+
 ![9DoF Display](image/DSC_0033.JPG)
 ![HSI Display](image/HSI_Screen.png)
 ![orientation](image/CoreS3_orientation.jpg)
