@@ -1,4 +1,4 @@
-# M5CoreS3-IMU
+# M5CoreS3-9DoF IMU
 
 ## Do not use this unit in situations involving safety to life.
 
